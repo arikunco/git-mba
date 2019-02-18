@@ -1,4 +1,4 @@
-# Installation of GIT at Data MBA Program 
+# Installation of Git and Github
 
 This github contains two files: 
 
